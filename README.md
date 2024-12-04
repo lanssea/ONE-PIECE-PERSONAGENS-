@@ -1,2 +1,2 @@
-esse projeto foi desenvolvido durante a imersão back em dobro 
+esse projeto foi desenvolvido durante a imersão Dev Em Dobro 
 link: https://lanssea.github.io/ONE-PIECE-PERSONAGENS-/
